@@ -20,4 +20,5 @@ Primeiro desafio feito concluido.
  * HTML5
  * CSS3
   
-  LINK_SITE:
+  ### LINK PARA VISUALIZAR PAGINA: 
+  <a herf="https://cartao-qrcode.vercel.app/" target="blank">CLIQUE ÁQUI</a>
