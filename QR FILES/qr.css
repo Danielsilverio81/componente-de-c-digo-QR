@@ -7,9 +7,12 @@
 
 body {
     background: hsl(212, 45%, 89%) ;
-    height: 100vh;
+    height: 900px;
     width: 100%;
     font-family: 'Outfit', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 main {
@@ -19,7 +22,6 @@ main {
 }
 
 .conteudo {
-    margin-top: 6rem;
     background-color: hsl(0, 0%, 100%);
     height: auto;
     max-width: 270px;
@@ -62,5 +64,6 @@ p {
 
 footer {
     position: absolute;
-    bottom: 10px;
+    top:850px;
+    left: 10px;
 }
